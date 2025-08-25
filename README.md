@@ -29,6 +29,7 @@ The goal is to analyze execution time differences between sequential and paralle
 ## Directory & File Structure
 project-root/
 │
+
 ├── clients.cpp # Client-side code for sending sorting tasks to the server
 ├── servers.cpp # Server-side code for handling sorting tasks
 ├── servom2.c # Additional server implementation (optional/variant)
