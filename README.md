@@ -65,3 +65,15 @@ project-root/
 
 ├── Makefile # Build instructions for compiling all programs
 └── README.md # Project documentation (this file)
+
+
+---
+
+## Compilation & Execution
+### 1. Compile Serial Programs
+```bash
+gcc binary_insertion_serial.c -o bin_insert_serial
+gcc selection_serial.c -o selection_serial
+gcc cocktail_serial.c -o cocktail_serial
+
+### 1. Compile Serial Programs
